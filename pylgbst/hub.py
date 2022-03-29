@@ -212,7 +212,7 @@ class MoveHub(Hub):
     :type motor_external: EncodedMotor
     """
 
-    DEFAULT_NAME = "LEGO Move Hub"
+    DEFAULT_NAME = "LEGO Mjrrjfnj"
 
     # PORTS
     PORT_A = 0x00
